@@ -1,0 +1,13 @@
+.carousel-image {
+  height: 400px;
+  object-fit: cover;
+}
+
+.card {
+  margin-bottom: 20px;
+}
+
+.card-img-top {
+  height: 200px; /* Adjust the height as needed */
+  object-fit: cover;
+}

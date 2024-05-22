@@ -1,0 +1,28 @@
+body {
+	background-color: #45a8f2;
+	margin-top: 30px;
+}
+
+.settings{
+	border: solid 1px #F0B5B3;
+	background-color: #545677;
+	height: 10vh;
+}
+
+.settings-1{
+	border: solid 1px #F0B5B3;
+	background-color: springgreen;
+	height: 10vh;
+}
+
+.settings-2{
+	border: solid 1px #F0B5B3;
+	background-color: #545677;
+	height: 10vh;
+}
+
+.settings-3{
+	border: solid 1px #F0B5B3;
+	background-color: #EB9FEF;
+	height: 10vh;
+}
